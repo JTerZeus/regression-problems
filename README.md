@@ -1,5 +1,9 @@
 # Regression Problems – Diabetes Dataset
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/JTerzeus/regression-problems/blob/main/diabetes_regression.ipynb
+)
+
 This repository contains a regression analysis on the Diabetes dataset from scikit-learn, implemented as part of a university assignment.
 
 ## 📌 Project Overview
